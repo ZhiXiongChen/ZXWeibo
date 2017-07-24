@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  WeiboTableViewController.h
 //  ZXWeibo
 //
 //  Created by zhixiongchen on 2017/7/23.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface WeiboTableViewController : UITableViewController
 
 @end
-
